@@ -5,7 +5,7 @@ The SortProject.pdf contains the results of this study, while all the resources 
 
 Instructions to run the data yourself:
 - Download all folders
-- SortCompAsgn.cpp is the file you will run to check the number of assignemnts and comparisons for each algorithm.
+- SortCompAsgn.cpp is the file you will run to check the number of assignments and comparisons for each algorithm.
 - Make sure the the following directories are included in the project: ../CAMetrics;../Counter;../ASeq;../ASorter;../ArrayT;../Utilities 
 - And make sure to add the library file: ../Utilities/dist/Debug/CLang-MacOSX/libutilities.a
 - Once you run SortCompAsgn.cpp, enter an array capacity, then enter the name of one of the files which contain the unsorted items (e.g File Name? d06400). These files are contained within the SortCompAsgn folder.
